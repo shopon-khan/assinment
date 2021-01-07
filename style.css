@@ -1,0 +1,147 @@
+<script src="https://kit.fontawesome.com/df48ee894b.js" crossorigin="anonymous"></script>
+body{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0px;
+
+}
+h1{
+    color:#363958;
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    color: #ff8367;
+    font-size: 26px;
+}
+h3{
+
+color: #696871;
+}
+p{
+    color: #668191;
+}
+section{
+    padding: 0px;
+}
+
+
+.colorAdd{
+    color:#23AAF2;
+}
+
+.linkButton{
+    background-color: #F76961;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    text-align: center;
+    font-size: medium;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    padding-bottom: 72px;
+}
+.half-width img{
+    width: 70%;
+
+}
+.aboutColor{
+    color:#363958;
+}
+.full-width img{
+    width: 5%;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    padding-right: 6px;
+}
+.full-width h3 {
+    padding-right: 239px;
+    text-align: center;
+    padding-right: -1px;
+    margin-bottom: 1px;
+    color: orange;
+    font-size: 25px;
+}
+
+.onebox {
+    width: 25%;
+    
+    overflow: hidden;
+    margin: 10px 10px;
+    float: left;
+    height: 356px;
+    border-radius: 5px;
+}
+
+.onebox img {
+    width: 100%;
+}
+
+.work-inquiry-box{
+    width: 70%;
+    margin: auto;
+    background-color: #363958;
+    overflow: hidden;
+    padding: 50px 30px;
+    border-radius: 30px;
+}
+.singlebox{
+    width: 50%;
+    float: left;
+}
+.singlebox img{
+    width: 100%;
+    overflow: hidden;
+  =
+}
+h2{
+    font-size: 40px;
+    color: white;
+}
+
+.btn{
+    display: inline-block;
+    background-color: #FA7267;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 40px;
+  
+}
+
+.boxbtn{
+    text-align: right;
+}
+  
+.fot {
+    margin-left: 376px;
+    margin-top: 101px;
+}
+
+i.fa.fa-youtube-play {
+    font-size: 40px;
+    padding: 10px;
+}
+
+i.fa.fa-linkedin-square {
+    font-size: 40px;
+    padding: 10px;
+}
+
+i.fa.fa-facebook {
+    font-size: 40px;
+    padding: 10px;
+}
+.color{
+
+    color: #F4427f;
+}
+
+.icon {
+}
